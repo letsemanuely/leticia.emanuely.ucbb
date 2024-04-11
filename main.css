@@ -1,4 +1,4 @@
-h1 {background-color: aqua;
+h1 {background-color: aquamarine;
 
 }
 
@@ -6,3 +6,7 @@ HTML {text-align: center;}
 body {background-color: beige;
 
 }
+.flex-container{
+    background-color: aquamarine;
+}
+.vertical
